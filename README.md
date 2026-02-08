@@ -28,10 +28,6 @@ This application simulates three common smart home devices — a smart light, th
 | Camera is on | Recording may toggle randomly |
 | Camera is off | Recording stops |
 
-## Screenshot
-
-![Dashboard](smart_home.png)
-
 ## Project Structure
 
 ```
